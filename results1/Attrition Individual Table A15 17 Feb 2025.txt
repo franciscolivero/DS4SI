@@ -1,0 +1,21 @@
+		(1)	(2)	(3)	(4)	(5)	(6)	(7)
+		index_Economic_Andr_M	index_PublicGoods_Andr	index_Economic_Andr_Subj	index_Attitudes_Andr_M	index_Security_perc_Andr_M	index_Security_perc_Andr_F	index_Security_exp_Andr_M
+VARIABLES	LABELS							
+								
+treatment_FU1	treatment_FU1	0.032	0.238	0.025	0.425	0.525	0.197	0.062
+		(0.100)	(0.188)	(0.152)	(0.204)**	(0.215)**	(0.216)	(0.175)
+treatment_FU2	treatment_FU2	-0.107	0.170	-0.174	0.289	0.259	0.150	0.157
+		(0.088)	(0.146)	(0.118)	(0.144)**	(0.132)*	(0.179)	(0.122)
+TrFU1_prob_nonattritionFU	TrFU1_prob_nonattritionFU	-0.030	-0.329	0.185	-0.590	-0.840	-0.206	-0.112
+		(0.190)	(0.360)	(0.279)	(0.369)	(0.397)**	(0.391)	(0.307)
+TrFU2_prob_nonattritionFU	TrFU2_prob_nonattritionFU	0.348	-0.307	0.695	-0.585	-0.514	-0.323	-0.413
+		(0.233)	(0.403)	(0.311)**	(0.358)	(0.342)	(0.479)	(0.286)
+prob_nonattritionFU	prob_nonattritionFU	-0.143	0.107	-0.509	-0.117	0.111	0.067	0.084
+		(0.146)	(0.227)	(0.204)**	(0.258)	(0.259)	(0.303)	(0.198)
+Constant	Constant	0.041	-0.024	0.241	0.053	-0.052	-0.020	-0.041
+		(0.066)	(0.107)	(0.096)**	(0.123)	(0.122)	(0.145)	(0.098)
+								
+Observations		5,738	6,176	7,162	5,829	8,052	6,285	8,052
+R-squared		0.198	0.364	0.228	0.293	0.350	0.360	0.308
+Robust standard errors in parentheses								
+*** p<0.01, ** p<0.05, * p<0.1								
