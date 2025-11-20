@@ -1,0 +1,45 @@
+		(1)	(2)
+VARIABLES	LABELS	Inc_dum_Anderson	Inc_dum_Anderson
+			
+treatmentNonEast_IFU_1	treatmentNonEast_IFU_1	-0.154	-0.127
+		(0.051)***	(0.049)**
+treatmentNonEast_IFU_2	treatmentNonEast_IFU_2	-0.171	-0.143
+		(0.061)***	(0.061)**
+treatmentNonEast_IFU_3	treatmentNonEast_IFU_3	-0.060	-0.033
+		(0.054)	(0.051)
+treatmentEast_IFU_1	treatmentEast_IFU_1	0.385	0.256
+		(0.150)**	(0.138)*
+treatmentEast_IFU_2	treatmentEast_IFU_2	0.370	0.241
+		(0.115)***	(0.118)**
+treatmentEast_IFU_3	treatmentEast_IFU_3	0.339	0.210
+		(0.113)***	(0.111)*
+treatmentPashtun_IFU_1	treatmentPashtun_IFU_1	-0.461	-0.282
+		(0.242)*	(0.229)
+treatmentPashtun_IFU_2	treatmentPashtun_IFU_2	-0.481	-0.303
+		(0.231)**	(0.236)
+treatmentPashtun_IFU_3	treatmentPashtun_IFU_3	-0.352	-0.173
+		(0.235)	(0.230)
+treatmentOpium_IFU_1	treatmentOpium_IFU_1	-0.043	-0.040
+		(0.025)*	(0.025)
+treatmentOpium_IFU_2	treatmentOpium_IFU_2	-0.031	-0.028
+		(0.028)	(0.027)
+treatmentOpium_IFU_3	treatmentOpium_IFU_3	0.014	0.018
+		(0.030)	(0.030)
+treatmentIncidents_IFU_1	treatmentIncidents_IFU_1	0.103	0.084
+		(0.066)	(0.060)
+treatmentIncidents_IFU_2	treatmentIncidents_IFU_2	0.067	0.048
+		(0.047)	(0.047)
+treatmentIncidents_IFU_3	treatmentIncidents_IFU_3	0.009	-0.011
+		(0.054)	(0.056)
+Inc_dum_Anderson_BS	Inc_dum_Anderson_BS		0.278
+			(0.041)***
+Constant	Constant	-0.000	-0.000
+		(0.022)	(0.020)
+			
+Observations		1,500	1,500
+R-squared		0.838	0.853
+Randomized P-values Pakistan Midline		0.016	0.075
+Randomized P-values Pakistan Endline		0.005	0.045
+Randomized P-values Pakistan Post-Endline		0.005	0.057
+Robust standard errors in parentheses			
+*** p<0.01, ** p<0.05, * p<0.1			

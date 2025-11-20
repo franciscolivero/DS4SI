@@ -1,0 +1,22 @@
+		(1)	(2)
+		M11_09z	M11_09z
+VARIABLES	LABELS	NGO Employees Act for the Benefit of All Villagers	NGO Employees Act for the Benefit of All Villagers
+			
+treatment_FU1	treatment_FU1	0.046	0.063
+		(0.014)***	(0.015)***
+treatment_FU2	treatment_FU2	0.011	0.008
+		(0.013)	(0.014)
+EastTreat_FU1	EastTreat_FU1		-0.096
+			(0.038)**
+EastTreat_FU2	EastTreat_FU2		0.019
+			(0.045)
+Constant	Constant	0.617	0.617
+		(0.007)***	(0.007)***
+			
+Observations		8,676	8,676
+R-squared		0.174	0.175
+p-value for equality of effects		0.0490	0.00413
+p-value for Effect in East FU1			0.332
+p-value for Effect in East FU2			0.527
+Robust standard errors in parentheses			
+*** p<0.01, ** p<0.05, * p<0.1			
