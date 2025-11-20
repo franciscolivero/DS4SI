@@ -1,0 +1,27 @@
+		(1)	(2)
+VARIABLES	LABELS	Inc_dum_Anderson	Inc_dum_Anderson
+			
+treatmentNonEast_IFU_1	treatmentNonEast_IFU_1	-0.103	-0.097
+		(0.044)**	(0.041)**
+treatmentNonEast_IFU_2	treatmentNonEast_IFU_2	-0.110	-0.103
+		(0.051)**	(0.050)**
+treatmentNonEast_IFU_3	treatmentNonEast_IFU_3	-0.017	-0.010
+		(0.046)	(0.044)
+treatmentEast_IFU_1	treatmentEast_IFU_1	0.181	0.134
+		(0.112)	(0.095)
+treatmentEast_IFU_2	treatmentEast_IFU_2	0.126	0.079
+		(0.054)**	(0.048)
+treatmentEast_IFU_3	treatmentEast_IFU_3	0.166	0.119
+		(0.075)**	(0.081)
+Inc_dum_Anderson_BS	Inc_dum_Anderson_BS		0.294
+			(0.040)***
+Constant	Constant	-0.000	-0.000
+		(0.022)	(0.020)
+			
+Observations		1,500	1,500
+R-squared		0.833	0.851
+Randomized P-values Pakistan Midline		0.139	0.166
+Randomized P-values Pakistan Endline		0.065	0.080
+Randomized P-values Pakistan Post-Endline		0.048	0.132
+Robust standard errors in parentheses			
+*** p<0.01, ** p<0.05, * p<0.1			
