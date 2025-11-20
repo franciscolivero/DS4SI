@@ -1,0 +1,22 @@
+		(1)	(2)	(3)	(4)	(5)	(6)	(7)	(8)	(9)	(10)	(11)	(12)	(13)	(14)	(15)	(16)	(17)	(18)	(19)	(20)
+		M12_19z	M12_19z	M12_19X	M12_19X	F13_06_better	F13_06_better	F13_06_worse	F13_06_worse	F13_07_better	F13_07_better	F13_07_worse	F13_07_worse	M12_17a	M12_17a	M12_17B	M12_17B	M12_20z	M12_20z	M12_20y	M12_20y
+VARIABLES	LABELS	Security in and around Village Has Improved in Past Two Years	Security in and around Village Has Improved in Past Two Years	Security in and around Village Has Deteriorated in Past Two Years	Security in and around Village Has Deteriorated in Past Two Years	Compared to Two Years Ago Women Feel More Safe in Working for NGOs or the Govern	Compared to Two Years Ago Women Feel More Safe in Working for NGOs or the Govern	Compared to Two Years Ago Women Feel Less Safe in Working for NGOs or the Govern	Compared to Two Years Ago Women Feel Less Safe in Working for NGOs or the Govern	Compared to Two Years Ago Teenage Girls Feel More Safe when Traveling to and fro	Compared to Two Years Ago Teenage Girls Feel More Safe when Traveling to and fro	Compared to Two Years Ago Teenage Girls Feel Less Safe when Traveling to and fro	Compared to Two Years Ago Teenage Girls Feel Less Safe when Traveling to and fro	Village has Experienced Attack in the Past Year	Village has Experienced Attack in the Past Year	Village has Experienced Attack by Anti-Government Elements in the Past Year	Village has Experienced Attack by Anti-Government Elements in the Past Year	Respondent Household has been Affected by Insecurity in Village during the Past	Respondent Household has been Affected by Insecurity in Village during the Past	Respondent Household has been Affected by Insecurity on Roads around District du	Respondent Household has been Affected by Insecurity on Roads around District du
+																					
+treatment_FU1	treatment_FU1	0.050	0.058	-0.019	-0.026	0.041	0.049	-0.037	-0.039	0.034	0.044	-0.036	-0.037	-0.005	-0.003	-0.004	-0.003	0.002	0.003	0.003	0.003
+		(0.013)***	(0.015)***	(0.009)**	(0.010)***	(0.016)***	(0.017)***	(0.014)***	(0.015)**	(0.016)**	(0.018)**	(0.016)**	(0.016)**	(0.008)	(0.009)	(0.007)	(0.008)	(0.005)	(0.006)	(0.004)	(0.005)
+treatment_FU2	treatment_FU2	0.044	0.044	-0.001	-0.001	0.025	0.019	-0.002	0.005	0.007	-0.000	-0.012	-0.008	-0.010	-0.003	-0.012	-0.014	0.008	0.009	0.001	0.001
+		(0.015)***	(0.016)***	(0.011)	(0.012)	(0.016)	(0.017)	(0.015)	(0.014)	(0.018)	(0.018)	(0.014)	(0.015)	(0.010)	(0.012)	(0.009)	(0.010)	(0.006)	(0.007)	(0.007)	(0.008)
+EastTreat_FU1	EastTreat_FU1		-0.045		0.041		-0.054		0.013		-0.069		0.009		-0.007		-0.008		-0.003		-0.003
+			(0.032)		(0.021)*		(0.037)		(0.032)		(0.043)		(0.055)		(0.016)		(0.015)		(0.006)		(0.005)
+EastTreat_FU2	EastTreat_FU2		-0.003		-0.003		0.102		-0.125		0.096		-0.052		-0.040		0.011		-0.005		0.002
+			(0.043)		(0.038)		(0.086)		(0.089)		(0.057)*		(0.048)		(0.020)**		(0.012)		(0.008)		(0.012)
+Constant	Constant	0.573	0.573	0.168	0.168	0.299	0.299	0.230	0.231	0.305	0.305	0.255	0.255	0.055	0.055	0.044	0.044	0.023	0.023	0.041	0.041
+		(0.007)***	(0.007)***	(0.005)***	(0.005)***	(0.008)***	(0.008)***	(0.007)***	(0.007)***	(0.008)***	(0.008)***	(0.007)***	(0.007)***	(0.005)***	(0.005)***	(0.004)***	(0.004)***	(0.003)***	(0.003)***	(0.002)***	(0.002)***
+																					
+Observations		8,962	8,962	8,962	8,962	7,799	7,799	7,870	7,870	7,095	7,095	7,128	7,128	8,984	8,984	8,985	8,985	8,972	8,972	8,972	8,972
+R-squared		0.306	0.306	0.322	0.322	0.278	0.278	0.355	0.356	0.299	0.300	0.360	0.360	0.324	0.325	0.314	0.314	0.233	0.233	0.194	0.194
+p-value for equality of effects		0.729	0.511	0.258	0.123	0.440	0.183	0.0593	0.0211	0.232	0.0652	0.231	0.157	0.662	0.997	0.410	0.333	0.523	0.565	0.844	0.787
+p-value for Effect in East FU1			0.650		0.425		0.873		0.361		0.520		0.591		0.400		0.386		1		1
+p-value for Effect in East FU2			0.299		0.920		0.155		0.172		0.0772		0.190		0.00842		0.597		0.424		0.761
+Robust standard errors in parentheses																					
+*** p<0.01, ** p<0.05, * p<0.1																					
