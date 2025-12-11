@@ -1,0 +1,22 @@
+		(1)	(2)
+		M9_03_wins_ln	M9_03_wins_ln
+VARIABLES	LABELS	Amount Borrowed in Past Year	Amount Borrowed in Past Year
+			
+treatment_FU1	treatment_FU1	0.041	0.076
+		(0.029)	(0.031)**
+treatment_FU2	treatment_FU2	0.176	0.129
+		(0.084)**	(0.069)*
+EastTreat_FU1	EastTreat_FU1		-0.225
+			(0.088)**
+EastTreat_FU2	EastTreat_FU2		0.295
+			(0.376)
+Constant	Constant	-5.849	-5.849
+		(0.031)***	(0.031)***
+			
+Observations		8,106	8,106
+R-squared		0.198	0.198
+p-value for equality of effects		0.118	0.441
+p-value for Effect in East FU1			0.0694
+p-value for Effect in East FU2			0.253
+Robust standard errors in parentheses			
+*** p<0.01, ** p<0.05, * p<0.1			

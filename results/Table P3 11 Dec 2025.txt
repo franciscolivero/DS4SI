@@ -1,0 +1,23 @@
+		(1)	(2)	(3)	(4)	(5)	(6)	(7)	(8)
+						FRead_attempt	FRead_attempt		
+		MRead_correct	MRead_correct	MCalculation_correct	MCalculation_correct	Attempted to Read	Attempted to Read	FCalculation_correct	FCalculation_correct
+VARIABLES	LABELS	Read Basic Sentence	Read Basic Sentence	Completed Calculation Correctly	Completed Calculation Correctly	but Failed	but Failed	Completed Calculation Correctly	Completed Calculation Correctly
+									
+treatment_FU1	treatment_FU1	0.023	0.031	0.023	0.027	0.019	0.029	0.013	0.020
+		(0.012)*	(0.014)**	(0.009)**	(0.011)**	(0.014)	(0.016)*	(0.015)	(0.015)
+treatment_FU2	treatment_FU2	0.001	0.003	0.001	0.003	-0.005	-0.006	0.009	0.006
+		(0.012)	(0.013)	(0.012)	(0.013)	(0.009)	(0.009)	(0.004)**	(0.004)
+EastTreat_FU1	EastTreat_FU1		-0.046		-0.023		-0.067		-0.049
+			(0.030)		(0.021)		(0.025)***		(0.055)
+EastTreat_FU2	EastTreat_FU2		-0.009		-0.009		0.006		0.054
+			(0.037)		(0.037)		(0.025)		(0.031)*
+Constant	Constant	0.334	0.334	0.562	0.563	0.132	0.132	0.207	0.207
+		(0.007)***	(0.007)***	(0.006)***	(0.006)***	(0.005)***	(0.005)***	(0.006)***	(0.006)***
+									
+Observations		8,979	8,979	8,978	8,978	8,029	8,029	8,025	8,025
+R-squared		0.139	0.139	0.343	0.343	0.213	0.213	0.346	0.346
+p-value for equality of effects		0.0762	0.0342	0.0902	0.0741	0.146	0.0622	0.802	0.351
+p-value for Effect in East FU1			0.586		0.825		0.0501		0.587
+p-value for Effect in East FU2			0.852		0.852		1		0.0517
+Robust standard errors in parentheses									
+*** p<0.01, ** p<0.05, * p<0.1									
